@@ -1,5 +1,5 @@
 # action.yml
-name: PerfAction for JMeter
+name: PerfAction for JMeter with DI-KafkaMeter Plugin
 description: Run performance tests using JMeter test plan
 author: NaveenKumar Namachivayam - https://qainsights.com
 
